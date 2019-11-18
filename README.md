@@ -1,2 +1,1 @@
-# image-api
-image-api
+# codejam-canvas
